@@ -1,4 +1,4 @@
-# Python Cenntro iChassis Simulator
+# Cenntro iChassis Simulator
 This repo models a representative iChassis from Cenntro.  Forked from https://github.com/bjyurkovich/vehicle-model-python
 
 # Running

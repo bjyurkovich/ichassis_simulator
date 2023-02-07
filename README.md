@@ -36,7 +36,7 @@ It's a simple step-wise simulator (1 second steps) that takes a commanded vehicl
 
 Imagine this is like an API to the CAN interface that your autonomous system and navigation unit will hook into (just a lot easier!)
 
-```
+```python
 from IChassis import IChassis
 
 ic = IChassis()
